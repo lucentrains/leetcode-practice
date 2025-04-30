@@ -28,21 +28,9 @@ leetcode-practice/
 
 ### Prerequisites
 
-- **Python** (3.x)  
+- **Python** (3.12.7)  
 - **Node.js & npm** (future)  
 - **C++ compiler & CMake** (future)  
-
-### Python Setup
-
-```bash
-cd problems/two-sum/python
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-pytest
-```
-
----
 
 ## Zenn Article Workflow
 
@@ -63,6 +51,14 @@ pytest
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## LeetCode Terms of Service Notice  
+Problem statements on LeetCode are © LeetCode LLC and are subject to the site’s  
+[Terms of Service](https://leetcode.com/terms/).  
+This repository stores only **short summaries and original solution code**.  
+For the full problem text, please visit the official link above.
 
 ---
 
@@ -98,19 +94,9 @@ leetcode-practice/
 
 ### 前提条件
 
-- **Python** (3.x)  
+- **Python** (3.12.7)  
 - **Node.js と npm** (今後)  
 - **C++コンパイラ & CMake** (今後)  
-
-### Python セットアップ
-
-```bash
-cd problems/two-sum/python
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-pytest
-```
 
 ---
 
@@ -133,3 +119,11 @@ pytest
 ## ライセンス
 
 本プロジェクトは MIT ライセンスの下で公開されています。
+
+---
+
+## LeetCode 利用規約に関する注意  
+LeetCode の問題文はすべて LeetCode LLC の著作物であり、  
+[利用規約](https://leetcode.com/terms/) によって保護されています。  
+本リポジトリでは **要約と自作コードのみ** を掲載しており、  
+全文は公式サイトを参照してください。
