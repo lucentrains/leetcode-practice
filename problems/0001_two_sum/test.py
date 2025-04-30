@@ -1,7 +1,6 @@
 # tests.py
 import pytest
 
-# 同じディレクトリに solution.py がある想定
 from solution import Solution
 
 # ----------------------------
